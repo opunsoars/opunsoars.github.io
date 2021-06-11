@@ -14,9 +14,15 @@
       
       <guid>https://opunsoars.github.io/posts/mypost/</guid>
       <description>Well, hello there.
-Welcome to this blog/portfolio. Some of the data crunching projects I have done will be collated here. Hope to keep this blog a mutually beneficial experience. For you, and for me. :)
+This is raw HTML, inside Markdown. Welcome to this blog/portfolio. Some of the data crunching projects I have done will be collated here. Hope to keep this blog a mutually beneficial experience. For you, and for me. :)
 The full image comes from this wonderful cartoon by Grant Snider:</description>
       <content>&lt;p&gt;Well, hello there.&lt;/p&gt;
+
+
+  &lt;p class=&#34;speshal-fancy-custom&#34;&gt;
+    This is &lt;strong&gt;raw HTML&lt;/strong&gt;, inside Markdown.
+  &lt;/p&gt;
+
 &lt;p&gt;Welcome to this blog/portfolio. Some of the data crunching projects I have done will be collated here. Hope to keep this blog a mutually beneficial experience.
 &lt;em&gt;For you, and for me.&lt;/em&gt; :)&lt;/p&gt;
 &lt;p&gt;The full image comes from this wonderful cartoon by &lt;a href=&#34;http://www.incidentalcomics.com/&#34;&gt;Grant Snider&lt;/a&gt;:&lt;/p&gt;
